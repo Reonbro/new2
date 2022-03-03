@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    
+    max-height: 100%;
+    width: 50%;
+    box-sizing: border-box;
+    background-color: gray;
+    
+}
+
+.ins-img {
+    
+    height: 100%;
+    width: 100%;
+    opacity: 0.1;
+    z-index: 2
+    
+}
+
+.header2{
+    position: absolute;
+    top: 0px;
+    
+}
+
+.header h1{
+    
+    color: aqua;
+    float: left;
+    
+    
+}
+
+.header img {
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.clean {
+    clear: both;
+}
+
+li{
+    list-style-type: none;
+    float: right;
+    margin-right: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
+ .list {
+    float: right;
+    box-sizing: border-box;
+}
+
+
+
